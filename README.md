@@ -1,8 +1,8 @@
 <img src="pythonlogo.png" align="right" width="200">
 
 # __*libpythonpro*__
-Conteúdowqewqewqewqeqweqweqwe
 
+Link do Curso: https://www.python.pro.br/modulos/pytools/
 
 1. **Criação de Projetos**
 
